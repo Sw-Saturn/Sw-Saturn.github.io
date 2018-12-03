@@ -6,18 +6,62 @@
     <description>Recent content in Creations on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Dec 2018 03:59:08 +0900</lastBuildDate>
     
 	<atom:link href="https://sw-saturn.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Welicing</title>
+      <title>AudioPlayer</title>
+      <link>https://sw-saturn.github.io/projects/creations/audioplayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/audioplayer/</guid>
+      <description>Swift2で作成した，iOSの音楽ライブラリから楽曲を読み込んで再生できる音楽プレーヤー． 楽曲タグから再生時間，アルバムアートを表示可能．</description>
+    </item>
+    
+    <item>
+      <title>Simple Calculator</title>
+      <link>https://sw-saturn.github.io/projects/creations/calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/calculator/</guid>
+      <description>Swift2の学習のため，少し複雑な計算も可能にした，入力経過を表示できる電卓． ユニバーサルアプリケーションとして，iPhone，iPadな</description>
+    </item>
+    
+    <item>
+      <title>TRY 聴音羽 -聴覚障がい者会話支援システム-</title>
+      <link>https://sw-saturn.github.io/projects/creations/try-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/try-us/</guid>
+      <description>第28回全国高専プロコン自由部門にて発表した作品． 聴覚障害者と健聴者の会話を支援するAndroidアプリケーション． 聴覚障害者にスマートフォ</description>
+    </item>
+    
+    <item>
+      <title>dmz_ai</title>
+      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
+    </item>
+    
+    <item>
+      <title>おだて鏡</title>
+      <link>https://sw-saturn.github.io/projects/creations/shirayukihime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/shirayukihime/</guid>
+      <description>HackU2018 TOKYOにて発表した作品． 「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される． 構</description>
+    </item>
+    
+    <item>
+      <title>WelICing</title>
       <link>https://sw-saturn.github.io/projects/creations/welicing/</link>
-      <pubDate>Tue, 04 Dec 2018 03:59:08 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/projects/creations/welicing/</guid>
-      <description></description>
+      <description>WelICingは，ICカードを用いて歩行の記録をとるシステムです．読み取り機を複数設置して起き，そのコースを歩いて頂き歩行記録をとります．</description>
     </item>
     
   </channel>
