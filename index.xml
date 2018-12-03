@@ -6,7 +6,7 @@
     <description>Recent content on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Dec 2018 03:49:54 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2018 12:41:05 -0500</lastBuildDate>
     
 	<atom:link href="https://sw-saturn.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,15 +36,6 @@
       
       <guid>https://sw-saturn.github.io/projects/contributions/schema-org/</guid>
       <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
-    </item>
-    
-    <item>
-      <title>Biography</title>
-      <link>https://sw-saturn.github.io/bio/</link>
-      <pubDate>Mon, 03 Dec 2018 03:49:54 +0900</pubDate>
-      
-      <guid>https://sw-saturn.github.io/bio/</guid>
-      <description> 出水 幹大(でみず かんた) 国立舞鶴工業高等専門学校 電気情報工学科 本科4年  </description>
     </item>
     
     <item>
