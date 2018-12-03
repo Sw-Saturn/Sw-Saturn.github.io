@@ -39,7 +39,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Saira Extra Condensed','M PLUS 1p',-apple-system,'ヒラギノ角ゴシック ProN',游ゴシック体, 'Yu Gothic', YuGothic, メイリオ, Meiryo, Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   font-size: 1.35rem;
 }
 
