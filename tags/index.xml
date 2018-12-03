@@ -6,9 +6,46 @@
     <description>Recent content in Tags on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 04 Dec 2018 03:59:08 +0900</lastBuildDate>
     
 	<atom:link href="https://sw-saturn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>In</title>
+      <link>https://sw-saturn.github.io/tags/in/</link>
+      <pubDate>Tue, 04 Dec 2018 03:59:08 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Techtags</title>
+      <link>https://sw-saturn.github.io/tags/techtags/</link>
+      <pubDate>Tue, 04 Dec 2018 03:59:08 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/techtags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Used</title>
+      <link>https://sw-saturn.github.io/tags/used/</link>
+      <pubDate>Tue, 04 Dec 2018 03:59:08 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/used/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://sw-saturn.github.io/tags/website/</link>
+      <pubDate>Tue, 04 Dec 2018 03:59:08 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/website/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

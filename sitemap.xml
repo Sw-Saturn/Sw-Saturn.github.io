@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://sw-saturn.github.io/projects/creations/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
     <priority>0.5</priority>
   </url>
   
@@ -13,12 +14,25 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.github.io/projects/creations/welicing/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://sw-saturn.github.io/tags/in/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.github.io/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
     <priority>1</priority>
   </url>
   
@@ -29,6 +43,25 @@
   
   <url>
     <loc>https://sw-saturn.github.io/tags/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/techtags/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/used/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/website/</loc>
+    <lastmod>2018-12-04T03:59:08+09:00</lastmod>
     <priority>0</priority>
   </url>
   
