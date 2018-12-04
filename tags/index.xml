@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 05 Dec 2018 03:57:22 +0900</lastBuildDate>
     
 	<atom:link href="https://sw-saturn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ajax</title>
+      <link>https://sw-saturn.github.io/tags/ajax/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/ajax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Android</title>
@@ -16,6 +26,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apache</title>
+      <link>https://sw-saturn.github.io/tags/apache/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/apache/</guid>
       <description></description>
     </item>
     
@@ -38,11 +57,29 @@
     </item>
     
     <item>
+      <title>Googlemaps</title>
+      <link>https://sw-saturn.github.io/tags/googlemaps/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/googlemaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java</title>
       <link>https://sw-saturn.github.io/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://sw-saturn.github.io/tags/javascript/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     
@@ -67,7 +104,7 @@
     <item>
       <title>Mysql</title>
       <link>https://sw-saturn.github.io/tags/mysql/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/mysql/</guid>
       <description></description>
@@ -79,6 +116,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/opencv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Php</title>
+      <link>https://sw-saturn.github.io/tags/php/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/php/</guid>
       <description></description>
     </item>
     

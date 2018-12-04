@@ -6,6 +6,7 @@
     <description>Recent content in Mysql on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 05 Dec 2018 03:57:22 +0900</lastBuildDate>
     
 	<atom:link href="https://sw-saturn.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +18,15 @@
       
       <guid>https://sw-saturn.github.io/projects/creations/welicing/</guid>
       <description>WelICing-ICTと「歩く」運動促進システム- は，ICカードを用いて歩行の記録をとるシステムです．読み取り機を複数設置して起き，そのコ</description>
+    </item>
+    
+    <item>
+      <title>Familiar Map</title>
+      <link>https://sw-saturn.github.io/projects/creations/familiarmap/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/familiarmap/</guid>
+      <description>第28回全国高専プロコン自由部門にて発表した作品． 舞鶴市のメール配信サービスをより分かりやすくするべく，GoogleMap上にピンを立ててイ</description>
     </item>
     
   </channel>
