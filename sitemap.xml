@@ -8,33 +8,33 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/projects/creations/6audioplayer/</loc>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/projects/creations/5calculator/</loc>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/projects/creations/2try-us/</loc>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/projects/creations/3dmz_ai/</loc>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/projects/creations/4shirayukihime/</loc>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/projects/creations/1welicing/</loc>
+    <loc>https://sw-saturn.github.io/projects/creations/welicing/</loc>
     <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/dmz_ai/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/try-us/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/shirayukihime/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/calculator/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/audioplayer/</loc>
+    <priority>0.2</priority>
   </url>
   
   <url>
