@@ -12,10 +12,10 @@
     
     <item>
       <title>dmz_ai</title>
-      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <link>https://sw-saturn.github.io/projects/creations/3dmz_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <guid>https://sw-saturn.github.io/projects/creations/3dmz_ai/</guid>
       <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
     </item>
     

@@ -12,28 +12,28 @@
     
     <item>
       <title>WelICing</title>
-      <link>https://sw-saturn.github.io/projects/creations/welicing/</link>
+      <link>https://sw-saturn.github.io/projects/creations/1welicing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/welicing/</guid>
+      <guid>https://sw-saturn.github.io/projects/creations/1welicing/</guid>
       <description>WelICingは，ICカードを用いて歩行の記録をとるシステムです．読み取り機を複数設置して起き，そのコースを歩いて頂き歩行記録をとります．</description>
     </item>
     
     <item>
       <title>dmz_ai</title>
-      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <link>https://sw-saturn.github.io/projects/creations/3dmz_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <guid>https://sw-saturn.github.io/projects/creations/3dmz_ai/</guid>
       <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
     </item>
     
     <item>
       <title>おだて鏡</title>
-      <link>https://sw-saturn.github.io/projects/creations/shirayukihime/</link>
+      <link>https://sw-saturn.github.io/projects/creations/4shirayukihime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/shirayukihime/</guid>
+      <guid>https://sw-saturn.github.io/projects/creations/4shirayukihime/</guid>
       <description>HackU2018 TOKYOにて発表した作品． 「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される． 構</description>
     </item>
     
