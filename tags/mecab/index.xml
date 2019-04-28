@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MeCab on Kanta Demizu</title>
+    <link>https://sw-saturn.github.io/tags/mecab/</link>
+    <description>Recent content in MeCab on Kanta Demizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sw-saturn.github.io/tags/mecab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dmz_ai</title>
+      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
+    </item>
+    
+  </channel>
+</rss>

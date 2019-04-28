@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenCV on Kanta Demizu</title>
+    <link>https://sw-saturn.github.io/tags/opencv/</link>
+    <description>Recent content in OpenCV on Kanta Demizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://sw-saturn.github.io/tags/opencv/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yosano</title>
+      <link>https://sw-saturn.github.io/projects/creations/yosano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/yosano/</guid>
+      <description>「笑い男」に似たソフトウェア． カメラを覗くと与謝野晶子の顔になった自分が現れます．</description>
+    </item>
+    
+    <item>
+      <title>おだて鏡</title>
+      <link>https://sw-saturn.github.io/projects/creations/shirayukihime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/shirayukihime/</guid>
+      <description>HackU2018 TOKYOにて発表した作品． 「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される． 構</description>
+    </item>
+    
+  </channel>
+</rss>

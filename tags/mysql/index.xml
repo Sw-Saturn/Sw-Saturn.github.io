@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MySQL on Kanta Demizu</title>
+    <link>https://sw-saturn.github.io/tags/mysql/</link>
+    <description>Recent content in MySQL on Kanta Demizu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Dec 2018 03:57:22 +0900</lastBuildDate>
+    
+	<atom:link href="https://sw-saturn.github.io/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WelICing</title>
+      <link>https://sw-saturn.github.io/projects/creations/welicing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/welicing/</guid>
+      <description>WelICing-ICTと「歩く」運動促進システム- は，ICカードを用いて歩行の記録をとるシステムです．読み取り機を複数設置して起き，そのコ</description>
+    </item>
+    
+    <item>
+      <title>LINE-bot</title>
+      <link>https://sw-saturn.github.io/projects/creations/class-bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/class-bot/</guid>
+      <description>毎朝8時10分に当日の時間割を通知するBot． サーバー上に授業日程をjson形式で配置しており，現在はそれを読み出す形で動作している． 将来的</description>
+    </item>
+    
+    <item>
+      <title>Familiar Map</title>
+      <link>https://sw-saturn.github.io/projects/creations/familiarmap/</link>
+      <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/familiarmap/</guid>
+      <description>第28回全国高専プロコン自由部門にて発表した作品． 舞鶴市のメール配信サービスをより分かりやすくするべく，GoogleMap上にピンを立ててイ</description>
+    </item>
+    
+  </channel>
+</rss>
