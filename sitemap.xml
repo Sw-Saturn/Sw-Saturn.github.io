@@ -35,6 +35,11 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.github.io/projects/creations/yosano/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.github.io/projects/creations/shirayukihime/</loc>
     <priority>0.2</priority>
   </url>
@@ -56,13 +61,49 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/android/</loc>
+    <loc>https://sw-saturn.github.io/tags/apache/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/apache/</loc>
+    <loc>https://sw-saturn.github.io/tags/googlemaps/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/mysql/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/php/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/javascript/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/android/</loc>
     <priority>0</priority>
   </url>
   
@@ -82,31 +123,13 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/googlemaps/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
+    <loc>https://sw-saturn.github.io/tags/json/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/java/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/javascript/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/json/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>1</priority>
   </url>
   
   <url>
@@ -120,19 +143,7 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/mysql/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sw-saturn.github.io/tags/opencv/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/php/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,6 +163,11 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.github.io/tags/sqlite/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.github.io/tags/sakura.io/</loc>
     <priority>0</priority>
   </url>
@@ -162,18 +178,7 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/sqlite/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sw-saturn.github.io/tags/swift2/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
     <priority>0</priority>
   </url>
   

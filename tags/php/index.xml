@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Php on Kanta Demizu</title>
+    <title>PHP on Kanta Demizu</title>
     <link>https://sw-saturn.github.io/tags/php/</link>
-    <description>Recent content in Php on Kanta Demizu</description>
+    <description>Recent content in PHP on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 03:57:22 +0900</lastBuildDate>
