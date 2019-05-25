@@ -138,11 +138,6 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/json/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sw-saturn.github.io/tags/java/</loc>
     <priority>0</priority>
   </url>
@@ -209,6 +204,11 @@
   
   <url>
     <loc>https://sw-saturn.github.io/tags/ios/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/json/</loc>
     <priority>0</priority>
   </url>
   
