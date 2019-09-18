@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>めしめーと</title>
+      <link>https://sw-saturn.github.io/projects/creations/foodmates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/foodmates/</guid>
+      <description>・外食に行ってみたいが不安な人 ・新しい料理を安心して食べに行きたい人 これらの人をターゲットとし、SNSのような形で料理の名前、写真を投稿でき</description>
+    </item>
+    
+    <item>
+      <title>dmz_ai</title>
+      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
+    </item>
+    
+    <item>
       <title>LINE-bot</title>
       <link>https://sw-saturn.github.io/projects/creations/class-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,15 +54,6 @@
       
       <guid>https://sw-saturn.github.io/projects/creations/matsuya-menu/</guid>
       <description>Flutterを使用して作成したモバイルアプリケーション． 有名フードチェーンの松屋のメニューをリスト化して表示するアプリケーション． iOS，</description>
-    </item>
-    
-    <item>
-      <title>dmz_ai</title>
-      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
-      <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
     </item>
     
     <item>

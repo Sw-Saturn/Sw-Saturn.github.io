@@ -10,7 +10,17 @@
   
   <url>
     <loc>https://sw-saturn.github.io/projects/creations/welicing/</loc>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/foodmates/</loc>
     <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/dmz_ai/</loc>
+    <priority>0.2</priority>
   </url>
   
   <url>
@@ -20,11 +30,6 @@
   
   <url>
     <loc>https://sw-saturn.github.io/projects/creations/matsuya-menu/</loc>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/projects/creations/dmz_ai/</loc>
     <priority>0.2</priority>
   </url>
   
@@ -62,19 +67,21 @@
   <url>
     <loc>https://sw-saturn.github.io/tags/ajax/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/apache/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/googlemaps/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/javascript/</loc>
+    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
   </url>
   
   <url>
@@ -86,85 +93,84 @@
   <url>
     <loc>https://sw-saturn.github.io/tags/mysql/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/php/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/</loc>
     <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/javascript/</loc>
-    <lastmod>2018-12-05T03:57:22+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/android/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/aws/</loc>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/dart/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/face&#43;&#43;/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/firebase/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/flutter/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sw-saturn.github.io/tags/json/</loc>
-    <priority>0</priority>
+    <loc>https://sw-saturn.github.io/tags/gin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/gorm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/ios/</loc>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/java/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/json/</loc>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/line/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/matsuya-web-api/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/mecab/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/opencv/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -174,42 +180,30 @@
   
   <url>
     <loc>https://sw-saturn.github.io/tags/python/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/raspberrypi/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/sqlite/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/sakura.io/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/server/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/sqlite/</loc>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/swift2/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/voicerecognition/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.github.io/tags/ios/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
