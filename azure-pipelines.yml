@@ -1,0 +1,19 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-2019'
+
+steps:
+- task: AzureFileCopy@3
+  inputs:
+    azureSubscription: 'Azure for Students(5ca2794a-fc13-44bf-9953-083f46fe41b3)'
+    Destination: 'AzureBlob'
+    SourcePath: 
+    storage: 'swsaturn'
+    ContainerName: '$web'
