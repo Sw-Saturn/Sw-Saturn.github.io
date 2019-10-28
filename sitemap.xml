@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -30,6 +30,16 @@
   
   <url>
     <loc>https://sw-saturn.github.io/projects/creations/matsuya-menu/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/ramen-bot/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/projects/creations/translator-bot/</loc>
     <priority>0.2</priority>
   </url>
   
@@ -114,11 +124,19 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.github.io/tags/azure/</loc>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/dart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/docker/</loc>
   </url>
   
   <url>
@@ -138,11 +156,19 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.github.io/tags/go/</loc>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.github.io/tags/golang/</loc>
   </url>
   
   <url>
     <loc>https://sw-saturn.github.io/tags/gorm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/gurunavi-api/</loc>
   </url>
   
   <url>
@@ -167,6 +193,10 @@
   
   <url>
     <loc>https://sw-saturn.github.io/tags/mecab/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.github.io/tags/node/</loc>
   </url>
   
   <url>

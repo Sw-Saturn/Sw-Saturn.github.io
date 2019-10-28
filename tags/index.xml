@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kanta Demizu</title>
@@ -84,11 +84,29 @@
     </item>
     
     <item>
+      <title>Azure</title>
+      <link>https://sw-saturn.github.io/tags/azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dart</title>
       <link>https://sw-saturn.github.io/tags/dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/dart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://sw-saturn.github.io/tags/docker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
@@ -129,6 +147,15 @@
     </item>
     
     <item>
+      <title>Go</title>
+      <link>https://sw-saturn.github.io/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Golang</title>
       <link>https://sw-saturn.github.io/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -143,6 +170,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/gorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gurunavi-api</title>
+      <link>https://sw-saturn.github.io/tags/gurunavi-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/gurunavi-api/</guid>
       <description></description>
     </item>
     
@@ -165,7 +201,7 @@
     </item>
     
     <item>
-      <title>json</title>
+      <title>JSON</title>
       <link>https://sw-saturn.github.io/tags/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -197,6 +233,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://sw-saturn.github.io/tags/mecab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node</title>
+      <link>https://sw-saturn.github.io/tags/node/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.github.io/tags/node/</guid>
       <description></description>
     </item>
     
