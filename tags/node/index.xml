@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>node on Kanta Demizu</title>
-    <link>https://sw-saturn.github.io/tags/node/</link>
+    <link>https://sw-saturn.dev/tags/node/</link>
     <description>Recent content in node on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sw-saturn.github.io/tags/node/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sw-saturn.dev/tags/node/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Translator-bot</title>
-      <link>https://sw-saturn.github.io/projects/creations/translator-bot/</link>
+      <link>https://sw-saturn.dev/projects/creations/translator-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/translator-bot/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/translator-bot/</guid>
       <description>外国語のテキストを送信すると，日本語に翻訳して返信してくれるLINE Bot 構成 サーバー: Azure Bot Service(node.js) 翻訳API: Azure Translator Text API デプロイ先: Azure App Service</description>
     </item>
     

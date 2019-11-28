@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Kanta Demizu</title>
-    <link>https://sw-saturn.github.io/tags/python/</link>
+    <link>https://sw-saturn.dev/tags/python/</link>
     <description>Recent content in Python on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sw-saturn.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sw-saturn.dev/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WelICing</title>
-      <link>https://sw-saturn.github.io/projects/creations/welicing/</link>
+      <link>https://sw-saturn.dev/projects/creations/welicing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/welicing/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/welicing/</guid>
       <description>WelICing-ICTと「歩く」運動促進システム- は，ICカードを用いて歩行の記録をとるシステムです．読み取り機を複数設置して起き，そのコ</description>
     </item>
     
     <item>
       <title>dmz_ai</title>
-      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <link>https://sw-saturn.dev/projects/creations/dmz_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/dmz_ai/</guid>
       <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
     </item>
     
     <item>
       <title>LINE-bot</title>
-      <link>https://sw-saturn.github.io/projects/creations/class-bot/</link>
+      <link>https://sw-saturn.dev/projects/creations/class-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/class-bot/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/class-bot/</guid>
       <description>毎朝8時10分に当日の時間割を通知するBot． サーバー上に授業日程をjson形式で配置しており，現在はそれを読み出す形で動作している． 将来的</description>
     </item>
     
     <item>
       <title>Yosano</title>
-      <link>https://sw-saturn.github.io/projects/creations/yosano/</link>
+      <link>https://sw-saturn.dev/projects/creations/yosano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/yosano/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/yosano/</guid>
       <description>「笑い男」に似たソフトウェア． カメラを覗くと与謝野晶子の顔になった自分が現れます．</description>
     </item>
     
     <item>
       <title>おだて鏡</title>
-      <link>https://sw-saturn.github.io/projects/creations/shirayukihime/</link>
+      <link>https://sw-saturn.dev/projects/creations/shirayukihime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/shirayukihime/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/shirayukihime/</guid>
       <description>HackU2018 TOKYOにて発表した作品． 「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される． 構</description>
     </item>
     

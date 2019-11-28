@@ -2,318 +2,318 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kanta Demizu</title>
-    <link>https://sw-saturn.github.io/tags/</link>
+    <link>https://sw-saturn.dev/tags/</link>
     <description>Recent content in Tags on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 03:57:22 +0900</lastBuildDate>
     
-	<atom:link href="https://sw-saturn.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sw-saturn.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ajax</title>
-      <link>https://sw-saturn.github.io/tags/ajax/</link>
+      <link>https://sw-saturn.dev/tags/ajax/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/ajax/</guid>
+      <guid>https://sw-saturn.dev/tags/ajax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apache</title>
-      <link>https://sw-saturn.github.io/tags/apache/</link>
+      <link>https://sw-saturn.dev/tags/apache/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/apache/</guid>
+      <guid>https://sw-saturn.dev/tags/apache/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GoogleMaps</title>
-      <link>https://sw-saturn.github.io/tags/googlemaps/</link>
+      <link>https://sw-saturn.dev/tags/googlemaps/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/googlemaps/</guid>
+      <guid>https://sw-saturn.dev/tags/googlemaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://sw-saturn.github.io/tags/javascript/</link>
+      <link>https://sw-saturn.dev/tags/javascript/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/javascript/</guid>
+      <guid>https://sw-saturn.dev/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MySQL</title>
-      <link>https://sw-saturn.github.io/tags/mysql/</link>
+      <link>https://sw-saturn.dev/tags/mysql/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/mysql/</guid>
+      <guid>https://sw-saturn.dev/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>https://sw-saturn.github.io/tags/php/</link>
+      <link>https://sw-saturn.dev/tags/php/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/php/</guid>
+      <guid>https://sw-saturn.dev/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://sw-saturn.github.io/tags/android/</link>
+      <link>https://sw-saturn.dev/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/android/</guid>
+      <guid>https://sw-saturn.dev/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>https://sw-saturn.github.io/tags/aws/</link>
+      <link>https://sw-saturn.dev/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/aws/</guid>
+      <guid>https://sw-saturn.dev/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure</title>
-      <link>https://sw-saturn.github.io/tags/azure/</link>
+      <link>https://sw-saturn.dev/tags/azure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/azure/</guid>
+      <guid>https://sw-saturn.dev/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dart</title>
-      <link>https://sw-saturn.github.io/tags/dart/</link>
+      <link>https://sw-saturn.dev/tags/dart/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/dart/</guid>
+      <guid>https://sw-saturn.dev/tags/dart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://sw-saturn.github.io/tags/docker/</link>
+      <link>https://sw-saturn.dev/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/docker/</guid>
+      <guid>https://sw-saturn.dev/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Face&#43;&#43;</title>
-      <link>https://sw-saturn.github.io/tags/face&#43;&#43;/</link>
+      <link>https://sw-saturn.dev/tags/face&#43;&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/face&#43;&#43;/</guid>
+      <guid>https://sw-saturn.dev/tags/face&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firebase</title>
-      <link>https://sw-saturn.github.io/tags/firebase/</link>
+      <link>https://sw-saturn.dev/tags/firebase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/firebase/</guid>
+      <guid>https://sw-saturn.dev/tags/firebase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flutter</title>
-      <link>https://sw-saturn.github.io/tags/flutter/</link>
+      <link>https://sw-saturn.dev/tags/flutter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/flutter/</guid>
+      <guid>https://sw-saturn.dev/tags/flutter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gin</title>
-      <link>https://sw-saturn.github.io/tags/gin/</link>
+      <link>https://sw-saturn.dev/tags/gin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/gin/</guid>
+      <guid>https://sw-saturn.dev/tags/gin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>https://sw-saturn.github.io/tags/go/</link>
+      <link>https://sw-saturn.dev/tags/go/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/go/</guid>
+      <guid>https://sw-saturn.dev/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://sw-saturn.github.io/tags/golang/</link>
+      <link>https://sw-saturn.dev/tags/golang/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/golang/</guid>
+      <guid>https://sw-saturn.dev/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GORM</title>
-      <link>https://sw-saturn.github.io/tags/gorm/</link>
+      <link>https://sw-saturn.dev/tags/gorm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/gorm/</guid>
+      <guid>https://sw-saturn.dev/tags/gorm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gurunavi-api</title>
-      <link>https://sw-saturn.github.io/tags/gurunavi-api/</link>
+      <link>https://sw-saturn.dev/tags/gurunavi-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/gurunavi-api/</guid>
+      <guid>https://sw-saturn.dev/tags/gurunavi-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iOS</title>
-      <link>https://sw-saturn.github.io/tags/ios/</link>
+      <link>https://sw-saturn.dev/tags/ios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/ios/</guid>
+      <guid>https://sw-saturn.dev/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://sw-saturn.github.io/tags/java/</link>
+      <link>https://sw-saturn.dev/tags/java/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/java/</guid>
+      <guid>https://sw-saturn.dev/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>json</title>
-      <link>https://sw-saturn.github.io/tags/json/</link>
+      <link>https://sw-saturn.dev/tags/json/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/json/</guid>
+      <guid>https://sw-saturn.dev/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LINE</title>
-      <link>https://sw-saturn.github.io/tags/line/</link>
+      <link>https://sw-saturn.dev/tags/line/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/line/</guid>
+      <guid>https://sw-saturn.dev/tags/line/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matsuya-Web-API</title>
-      <link>https://sw-saturn.github.io/tags/matsuya-web-api/</link>
+      <link>https://sw-saturn.dev/tags/matsuya-web-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/matsuya-web-api/</guid>
+      <guid>https://sw-saturn.dev/tags/matsuya-web-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MeCab</title>
-      <link>https://sw-saturn.github.io/tags/mecab/</link>
+      <link>https://sw-saturn.dev/tags/mecab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/mecab/</guid>
+      <guid>https://sw-saturn.dev/tags/mecab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node</title>
-      <link>https://sw-saturn.github.io/tags/node/</link>
+      <link>https://sw-saturn.dev/tags/node/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/node/</guid>
+      <guid>https://sw-saturn.dev/tags/node/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OpenCV</title>
-      <link>https://sw-saturn.github.io/tags/opencv/</link>
+      <link>https://sw-saturn.dev/tags/opencv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/opencv/</guid>
+      <guid>https://sw-saturn.dev/tags/opencv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://sw-saturn.github.io/tags/python/</link>
+      <link>https://sw-saturn.dev/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/python/</guid>
+      <guid>https://sw-saturn.dev/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RaspberryPi</title>
-      <link>https://sw-saturn.github.io/tags/raspberrypi/</link>
+      <link>https://sw-saturn.dev/tags/raspberrypi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/raspberrypi/</guid>
+      <guid>https://sw-saturn.dev/tags/raspberrypi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sakura.io</title>
-      <link>https://sw-saturn.github.io/tags/sakura.io/</link>
+      <link>https://sw-saturn.dev/tags/sakura.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/sakura.io/</guid>
+      <guid>https://sw-saturn.dev/tags/sakura.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Server</title>
-      <link>https://sw-saturn.github.io/tags/server/</link>
+      <link>https://sw-saturn.dev/tags/server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/server/</guid>
+      <guid>https://sw-saturn.dev/tags/server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQLite</title>
-      <link>https://sw-saturn.github.io/tags/sqlite/</link>
+      <link>https://sw-saturn.dev/tags/sqlite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/sqlite/</guid>
+      <guid>https://sw-saturn.dev/tags/sqlite/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swift2</title>
-      <link>https://sw-saturn.github.io/tags/swift2/</link>
+      <link>https://sw-saturn.dev/tags/swift2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/swift2/</guid>
+      <guid>https://sw-saturn.dev/tags/swift2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VoiceRecognition</title>
-      <link>https://sw-saturn.github.io/tags/voicerecognition/</link>
+      <link>https://sw-saturn.dev/tags/voicerecognition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/tags/voicerecognition/</guid>
+      <guid>https://sw-saturn.dev/tags/voicerecognition/</guid>
       <description></description>
     </item>
     

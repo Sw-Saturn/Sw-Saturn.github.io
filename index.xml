@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kanta Demizu</title>
-    <link>https://sw-saturn.github.io/</link>
+    <link>https://sw-saturn.dev/</link>
     <description>Recent content on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 Dec 2018 03:57:22 +0900</lastBuildDate>
     
-	<atom:link href="https://sw-saturn.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sw-saturn.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WelICing</title>
-      <link>https://sw-saturn.github.io/projects/creations/welicing/</link>
+      <link>https://sw-saturn.dev/projects/creations/welicing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/welicing/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/welicing/</guid>
       <description>WelICing-ICTと「歩く」運動促進システム- は，ICカードを用いて歩行の記録をとるシステムです．読み取り機を複数設置して起き，そのコ</description>
     </item>
     
     <item>
       <title>めしめーと</title>
-      <link>https://sw-saturn.github.io/projects/creations/foodmates/</link>
+      <link>https://sw-saturn.dev/projects/creations/foodmates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/foodmates/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/foodmates/</guid>
       <description>jig.jp学生インターンプログラム2019にて，4人1チームで制作したプロダクト。 ・外食に行ってみたいが不安な人 ・新しい料理を安心して食べ</description>
     </item>
     
     <item>
       <title>dmz_ai</title>
-      <link>https://sw-saturn.github.io/projects/creations/dmz_ai/</link>
+      <link>https://sw-saturn.dev/projects/creations/dmz_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/dmz_ai/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/dmz_ai/</guid>
       <description>自分のTwitterアカウントの発言をベースにして発言させるbot Twitterの発言を形態素解析したものをSQLiteデータベースにして</description>
     </item>
     
     <item>
       <title>LINE-bot</title>
-      <link>https://sw-saturn.github.io/projects/creations/class-bot/</link>
+      <link>https://sw-saturn.dev/projects/creations/class-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/class-bot/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/class-bot/</guid>
       <description>毎朝8時10分に当日の時間割を通知するBot． サーバー上に授業日程をjson形式で配置しており，現在はそれを読み出す形で動作している． 将来的</description>
     </item>
     
     <item>
       <title>Matsuya Menu</title>
-      <link>https://sw-saturn.github.io/projects/creations/matsuya-menu/</link>
+      <link>https://sw-saturn.dev/projects/creations/matsuya-menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/matsuya-menu/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/matsuya-menu/</guid>
       <description>Flutterを使用して作成したモバイルアプリケーション． 有名フードチェーンの松屋のメニューをリスト化して表示するアプリケーション． iOS，</description>
     </item>
     
     <item>
       <title>Ramen-Bot</title>
-      <link>https://sw-saturn.github.io/projects/creations/ramen-bot/</link>
+      <link>https://sw-saturn.dev/projects/creations/ramen-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/ramen-bot/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/ramen-bot/</guid>
       <description>LINEで位置情報を送信すると近くのラーメン屋を返してくれるBot。 構成 サーバー: Go コンテナ: https://hub.docker.com/r/swsaturn/ramen_bot レストラン取得API: ぐるなび Web Service - レストラ</description>
     </item>
     
     <item>
       <title>Translator-bot</title>
-      <link>https://sw-saturn.github.io/projects/creations/translator-bot/</link>
+      <link>https://sw-saturn.dev/projects/creations/translator-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/translator-bot/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/translator-bot/</guid>
       <description>外国語のテキストを送信すると，日本語に翻訳して返信してくれるLINE Bot 構成 サーバー: Azure Bot Service(node.js) 翻訳API: Azure Translator Text API デプロイ先: Azure App Service</description>
     </item>
     
     <item>
       <title>TRY 聴音羽 -聴覚障がい者会話支援システム-</title>
-      <link>https://sw-saturn.github.io/projects/creations/try-us/</link>
+      <link>https://sw-saturn.dev/projects/creations/try-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/try-us/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/try-us/</guid>
       <description>第28回全国高専プロコン自由部門にて発表した作品． 聴覚障害者と健聴者の会話を支援するAndroidアプリケーション． 聴覚障害者にスマートフォ</description>
     </item>
     
     <item>
       <title>Familiar Map</title>
-      <link>https://sw-saturn.github.io/projects/creations/familiarmap/</link>
+      <link>https://sw-saturn.dev/projects/creations/familiarmap/</link>
       <pubDate>Wed, 05 Dec 2018 03:57:22 +0900</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/familiarmap/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/familiarmap/</guid>
       <description>第28回全国高専プロコン自由部門にて発表した作品． 舞鶴市のメール配信サービスをより分かりやすくするべく，GoogleMap上にピンを立ててイ</description>
     </item>
     
     <item>
       <title>Yosano</title>
-      <link>https://sw-saturn.github.io/projects/creations/yosano/</link>
+      <link>https://sw-saturn.dev/projects/creations/yosano/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/yosano/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/yosano/</guid>
       <description>「笑い男」に似たソフトウェア． カメラを覗くと与謝野晶子の顔になった自分が現れます．</description>
     </item>
     
     <item>
       <title>おだて鏡</title>
-      <link>https://sw-saturn.github.io/projects/creations/shirayukihime/</link>
+      <link>https://sw-saturn.dev/projects/creations/shirayukihime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/shirayukihime/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/shirayukihime/</guid>
       <description>HackU2018 TOKYOにて発表した作品． 「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される． 構</description>
     </item>
     
     <item>
       <title>Simple Calculator</title>
-      <link>https://sw-saturn.github.io/projects/creations/calculator/</link>
+      <link>https://sw-saturn.dev/projects/creations/calculator/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/calculator/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/calculator/</guid>
       <description>Swift2の学習のため，少し複雑な計算も可能にした，入力経過を表示できる電卓． ユニバーサルアプリケーションとして，iPhone，iPadな</description>
     </item>
     
     <item>
       <title>AudioPlayer</title>
-      <link>https://sw-saturn.github.io/projects/creations/audioplayer/</link>
+      <link>https://sw-saturn.dev/projects/creations/audioplayer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/audioplayer/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/audioplayer/</guid>
       <description>Swift2で作成した，iOSの音楽ライブラリから楽曲を読み込んで再生できる音楽プレーヤー． 楽曲タグから再生時間，アルバムアートを表示可能．</description>
     </item>
     

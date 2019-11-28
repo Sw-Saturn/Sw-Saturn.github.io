@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gurunavi-api on Kanta Demizu</title>
-    <link>https://sw-saturn.github.io/tags/gurunavi-api/</link>
+    <link>https://sw-saturn.dev/tags/gurunavi-api/</link>
     <description>Recent content in Gurunavi-api on Kanta Demizu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://sw-saturn.github.io/tags/gurunavi-api/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sw-saturn.dev/tags/gurunavi-api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ramen-Bot</title>
-      <link>https://sw-saturn.github.io/projects/creations/ramen-bot/</link>
+      <link>https://sw-saturn.dev/projects/creations/ramen-bot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://sw-saturn.github.io/projects/creations/ramen-bot/</guid>
+      <guid>https://sw-saturn.dev/projects/creations/ramen-bot/</guid>
       <description>LINEで位置情報を送信すると近くのラーメン屋を返してくれるBot。 構成 サーバー: Go コンテナ: https://hub.docker.com/r/swsaturn/ramen_bot レストラン取得API: ぐるなび Web Service - レストラ</description>
     </item>
     
