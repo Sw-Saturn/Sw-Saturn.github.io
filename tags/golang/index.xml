@@ -19,5 +19,14 @@
       <description>jig.jp学生インターンプログラム2019にて，4人1チームで制作したプロダクト。 ・外食に行ってみたいが不安な人 ・新しい料理を安心して食べ</description>
     </item>
     
+    <item>
+      <title>halloween2019</title>
+      <link>https://sw-saturn.dev/projects/creations/halloween2019/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.dev/projects/creations/halloween2019/</guid>
+      <description>ハロウィンのネタとして作った、世界で一番シンプルかつハロウィン要素を持ったサーバーアプリケーションです。 構成 サーバ: Golang</description>
+    </item>
+    
   </channel>
 </rss>

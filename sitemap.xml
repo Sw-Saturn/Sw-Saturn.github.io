@@ -29,6 +29,11 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.dev/projects/creations/halloween2019/</loc>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.dev/projects/creations/class-bot/</loc>
     <priority>0.2</priority>
   </url>
