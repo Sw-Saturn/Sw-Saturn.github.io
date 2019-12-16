@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Birthday Countdown</title>
+      <link>https://sw-saturn.dev/projects/creations/birthday-countdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sw-saturn.dev/projects/creations/birthday-countdown/</guid>
+      <description>ブログ記事のネタとして作った、誕生日カウントダウンアプリ。 構成 アプリケーションフレームワーク: Flutter RADライブラリ: Rapido 参考 https://blog.sw-saturn.dev/2019/12/07/334todo/</description>
+    </item>
+    
+    <item>
       <title>Matsuya Menu</title>
       <link>https://sw-saturn.dev/projects/creations/matsuya-menu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
