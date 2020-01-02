@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GORM | でみ</title>
+    <link>https://sw-saturn.dev/tags/gorm/</link>
+      <atom:link href="https://sw-saturn.dev/tags/gorm/index.xml" rel="self" type="application/rss+xml" />
+    <description>GORM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <title>GORM</title>
+      <link>https://sw-saturn.dev/tags/gorm/</link>
+    </image>
+    
+    <item>
+      <title>めしめーと</title>
+      <link>https://sw-saturn.dev/project/foodmates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/foodmates/</guid>
+      <description>
+
+
+&lt;div style=&#34;width: 80%&#34;&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=1d807680b7bf42bbab3d909f79a7b377 data-ratio=1.77777777777778 src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;p&gt;jig.jp学生インターンプログラム2019にて，4人1チームで制作したプロダクト。&lt;/p&gt;
+&lt;p&gt;・外食に行ってみたいが不安な人&lt;/p&gt;
+&lt;p&gt;・新しい料理を安心して食べに行きたい人&lt;/p&gt;
+&lt;p&gt;これらの人をターゲットとし、SNSのような形で料理の名前、写真を投稿できるサービス。&lt;/p&gt;
+&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
+&lt;li&gt;データベース:MySQL(サーバーからはGORMでアクセス)&lt;/li&gt;
+&lt;li&gt;デプロイ先:AWS(EC2)&lt;/li&gt;
+&lt;li&gt;サーバー:Golang(Gin)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;heading-1&#34;&gt;クライアントサイド&lt;/h4&gt;
+&lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;heading-2&#34;&gt;サーバーサイド&lt;/h4&gt;
+&lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

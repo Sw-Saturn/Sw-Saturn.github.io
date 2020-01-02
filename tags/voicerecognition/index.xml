@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VoiceRecognition | でみ</title>
+    <link>https://sw-saturn.dev/tags/voicerecognition/</link>
+      <atom:link href="https://sw-saturn.dev/tags/voicerecognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>VoiceRecognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <title>VoiceRecognition</title>
+      <link>https://sw-saturn.dev/tags/voicerecognition/</link>
+    </image>
+    
+    <item>
+      <title>TRY 聴音羽 -聴覚障がい者会話支援システム-</title>
+      <link>https://sw-saturn.dev/project/try-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/try-us/</guid>
+      <description>
+
+
+&lt;div style=&#34;width: 80%&#34;&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=e33a67d3db07468db72d22867b4d6dad data-ratio=1.77777777777778 src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;p&gt;第28回全国高専プロコン自由部門にて発表した作品．&lt;/p&gt;
+&lt;p&gt;聴覚障害者と健聴者の会話を支援するAndroidアプリケーション．&lt;/p&gt;
+&lt;p&gt;聴覚障害者にスマートフォンを持っていただき，チャットベースで会話を行う．&lt;/p&gt;
+&lt;p&gt;指向性スピーカー、指向性マイクを使ったケースを作成し，より遠くの人に話しかけることが可能．&lt;/p&gt;
+&lt;p&gt;また返答も問題なく拾うことが可能．&lt;/p&gt;
+&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;音声認識:Google Speech Recognizer&lt;/li&gt;
+&lt;li&gt;音声合成:VoiceText Web API&lt;/li&gt;
+&lt;li&gt;チャットサーバー:Firebase&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sw-saturn.dev/img/tryus.png&#34; &gt;
+&lt;img data-src=&#34;https://sw-saturn.dev/img/tryus.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>おだて鏡</title>
+      <link>https://sw-saturn.dev/project/shirayukihime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/shirayukihime/</guid>
+      <description>&lt;p&gt;HackU2018 TOKYOにて発表した作品．&lt;/p&gt;
+&lt;p&gt;「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される．&lt;/p&gt;
+&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;docomo音声認識APIで声を認識する&lt;/li&gt;
+&lt;li&gt;Face++ APIで性別，年齢を画像認識&lt;/li&gt;
+&lt;li&gt;OpenCVで顔認識し，リアルタイムに顔画像を合成しディスプレイに出力&lt;/li&gt;
+&lt;li&gt;VoiceTextで音声合成しレスポンスを送る&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android | でみ</title>
+    <link>https://sw-saturn.dev/tags/android/</link>
+      <atom:link href="https://sw-saturn.dev/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <description>Android</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <title>Android</title>
+      <link>https://sw-saturn.dev/tags/android/</link>
+    </image>
+    
+    <item>
+      <title>Matsuya Menu</title>
+      <link>https://sw-saturn.dev/project/matsuya-menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/matsuya-menu/</guid>
+      <description>&lt;p&gt;Flutterを使用して作成したモバイルアプリケーション．&lt;/p&gt;
+&lt;p&gt;有名フードチェーンの松屋のメニューをリスト化して表示するアプリケーション．
+iOS，Androidの両OSに対応．&lt;/p&gt;
+&lt;p&gt;今後，ストアにリリース予定．&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>TRY 聴音羽 -聴覚障がい者会話支援システム-</title>
+      <link>https://sw-saturn.dev/project/try-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/try-us/</guid>
+      <description>
+
+
+&lt;div style=&#34;width: 80%&#34;&gt;
+&lt;script async class=&#34;speakerdeck-embed&#34; data-id=e33a67d3db07468db72d22867b4d6dad data-ratio=1.77777777777778 src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+&lt;p&gt;第28回全国高専プロコン自由部門にて発表した作品．&lt;/p&gt;
+&lt;p&gt;聴覚障害者と健聴者の会話を支援するAndroidアプリケーション．&lt;/p&gt;
+&lt;p&gt;聴覚障害者にスマートフォンを持っていただき，チャットベースで会話を行う．&lt;/p&gt;
+&lt;p&gt;指向性スピーカー、指向性マイクを使ったケースを作成し，より遠くの人に話しかけることが可能．&lt;/p&gt;
+&lt;p&gt;また返答も問題なく拾うことが可能．&lt;/p&gt;
+&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;音声認識:Google Speech Recognizer&lt;/li&gt;
+&lt;li&gt;音声合成:VoiceText Web API&lt;/li&gt;
+&lt;li&gt;チャットサーバー:Firebase&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://sw-saturn.dev/img/tryus.png&#34; &gt;
+&lt;img data-src=&#34;https://sw-saturn.dev/img/tryus.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
