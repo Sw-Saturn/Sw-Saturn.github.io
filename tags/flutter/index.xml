@@ -18,12 +18,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sw-saturn.dev/project/birthday/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34;&gt;ブログ記事&lt;/a&gt;のネタとして作った、誕生日カウントダウンアプリ。&lt;/p&gt;
-&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;アプリケーションフレームワーク: Flutter&lt;/li&gt;
 &lt;li&gt;RADライブラリ: &lt;a href=&#34;https://pub.dev/packages/rapido&#34;&gt;Rapido&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;heading-1&#34;&gt;参考&lt;/h5&gt;
+&lt;h5 id=&#34;参考&#34;&gt;参考&lt;/h5&gt;
 &lt;p&gt;&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34;&gt;https://blog.sw-saturn.dev/2019/12/07/334todo/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

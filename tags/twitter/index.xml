@@ -19,7 +19,7 @@
       <guid>https://sw-saturn.dev/project/dmz_ai/</guid>
       <description>&lt;p&gt;自分のTwitterアカウントの発言をベースにして発言させるbot&lt;/p&gt;
 &lt;p&gt;Twitterの発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPIから投稿する．&lt;/p&gt;
-&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
 &lt;li&gt;サーバー: Golang&lt;/li&gt;

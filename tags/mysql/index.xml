@@ -54,16 +54,16 @@
 &lt;p&gt;・外食に行ってみたいが不安な人&lt;/p&gt;
 &lt;p&gt;・新しい料理を安心して食べに行きたい人&lt;/p&gt;
 &lt;p&gt;これらの人をターゲットとし、SNSのような形で料理の名前、写真を投稿できるサービス。&lt;/p&gt;
-&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
 &lt;li&gt;データベース:MySQL(サーバーからはGORMでアクセス)&lt;/li&gt;
 &lt;li&gt;デプロイ先:AWS(EC2)&lt;/li&gt;
 &lt;li&gt;サーバー:Golang(Gin)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;heading-1&#34;&gt;クライアントサイド&lt;/h4&gt;
+&lt;h4 id=&#34;クライアントサイド&#34;&gt;クライアントサイド&lt;/h4&gt;
 &lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;heading-2&#34;&gt;サーバーサイド&lt;/h4&gt;
+&lt;h4 id=&#34;サーバーサイド&#34;&gt;サーバーサイド&lt;/h4&gt;
 &lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

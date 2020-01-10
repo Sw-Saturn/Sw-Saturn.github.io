@@ -28,7 +28,7 @@
 &lt;p&gt;聴覚障害者にスマートフォンを持っていただき，チャットベースで会話を行う．&lt;/p&gt;
 &lt;p&gt;指向性スピーカー、指向性マイクを使ったケースを作成し，より遠くの人に話しかけることが可能．&lt;/p&gt;
 &lt;p&gt;また返答も問題なく拾うことが可能．&lt;/p&gt;
-&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;音声認識:Google Speech Recognizer&lt;/li&gt;
 &lt;li&gt;音声合成:VoiceText Web API&lt;/li&gt;

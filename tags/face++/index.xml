@@ -19,7 +19,7 @@
       <guid>https://sw-saturn.dev/project/shirayukihime/</guid>
       <description>&lt;p&gt;HackU2018 TOKYOにて発表した作品．&lt;/p&gt;
 &lt;p&gt;「鏡よ鏡，この世で一番美しいのは誰..?」と言うと，ディスプレイ上に美しい容姿のあなたが映し出される．&lt;/p&gt;
-&lt;h5 id=&#34;heading&#34;&gt;構成&lt;/h5&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;docomo音声認識APIで声を認識する&lt;/li&gt;
 &lt;li&gt;Face++ APIで性別，年齢を画像認識&lt;/li&gt;
