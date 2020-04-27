@@ -5,7 +5,7 @@
     <link>https://sw-saturn.dev/tags/golang/</link>
       <atom:link href="https://sw-saturn.dev/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <description>Golang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
     <image>
       <url>https://sw-saturn.dev/img/icon-192.png</url>
       <title>Golang</title>
@@ -28,19 +28,6 @@
 &lt;div&gt;
     &lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/dmz_ai?ref_src=twsrc%5Etfw&#34; data-height=&#34;1000&#34;&gt;Tweets by dmz_ai&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>halloween2019</title>
-      <link>https://sw-saturn.dev/project/halloween2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sw-saturn.dev/project/halloween2019/</guid>
-      <description>&lt;p&gt;ハロウィンのネタとして作った、世界で一番シンプルかつハロウィン要素を持ったサーバーアプリケーションです。&lt;/p&gt;
-&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;サーバ: Golang&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     

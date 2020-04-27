@@ -5,7 +5,7 @@
     <link>https://sw-saturn.dev/</link>
       <atom:link href="https://sw-saturn.dev/index.xml" rel="self" type="application/rss+xml" />
     <description>Kanta&#39;s Portfolio</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
     <image>
       <url>https://sw-saturn.dev/img/icon-192.png</url>
       <title>Kanta&#39;s Portfolio</title>
@@ -71,19 +71,6 @@
       <guid>https://sw-saturn.dev/project/familiarmap/</guid>
       <description>&lt;p&gt;第26回全国高専プロコン自由部門にて発表した作品．&lt;/p&gt;
 &lt;p&gt;舞鶴市のメール配信サービスをより分かりやすくするべく，GoogleMap上にピンを立ててイベント情報や犯罪情報，クマの目撃情報を表示するシステム．&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>halloween2019</title>
-      <link>https://sw-saturn.dev/project/halloween2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sw-saturn.dev/project/halloween2019/</guid>
-      <description>&lt;p&gt;ハロウィンのネタとして作った、世界で一番シンプルかつハロウィン要素を持ったサーバーアプリケーションです。&lt;/p&gt;
-&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;サーバ: Golang&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
