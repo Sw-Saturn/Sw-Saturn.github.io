@@ -43,6 +43,10 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.dev/tags/bulma/</loc>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.dev/categories/</loc>
   </url>
   
@@ -261,8 +265,20 @@
   </url>
   
   <url>
+    <loc>https://sw-saturn.dev/project/utlab-signage/</loc>
+  </url>
+  
+  <url>
     <loc>https://sw-saturn.dev/tags/voicerecognition/</loc>
     <lastmod>2020-02-03T10:07:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.dev/tags/vue.js/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.dev/tags/web/</loc>
   </url>
   
   <url>
