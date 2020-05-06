@@ -7,7 +7,7 @@
     <description>Kanta&#39;s Portfolio</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
     <image>
-      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
       <title>Kanta&#39;s Portfolio</title>
       <link>https://sw-saturn.dev/</link>
     </image>
@@ -17,14 +17,17 @@
       <link>https://sw-saturn.dev/project/birthday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sw-saturn.dev/project/birthday/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34;&gt;ブログ記事&lt;/a&gt;のネタとして作った、誕生日カウントダウンアプリ。&lt;/p&gt;
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ブログ記事&lt;/a&gt;のネタとして作った、誕生日カウントダウンアプリ。&lt;/p&gt;
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;アプリケーションフレームワーク: Flutter&lt;/li&gt;
-&lt;li&gt;RADライブラリ: &lt;a href=&#34;https://pub.dev/packages/rapido&#34;&gt;Rapido&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;RADライブラリ: 
+&lt;a href=&#34;https://pub.dev/packages/rapido&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rapido&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5 id=&#34;参考&#34;&gt;参考&lt;/h5&gt;
-&lt;p&gt;&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34;&gt;https://blog.sw-saturn.dev/2019/12/07/334todo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.sw-saturn.dev/2019/12/07/334todo/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -95,8 +98,10 @@ iOS，Androidの両OSに対応．&lt;/p&gt;
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;サーバー: Go&lt;/li&gt;
-&lt;li&gt;コンテナ: &lt;a href=&#34;https://hub.docker.com/r/swsaturn/ramen_bot&#34;&gt;https://hub.docker.com/r/swsaturn/ramen_bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;レストラン取得API: &lt;a href=&#34;https://api.gnavi.co.jp/api/manual/restsearch/&#34;&gt;ぐるなび Web Service - レストラン検索API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;コンテナ: 
+&lt;a href=&#34;https://hub.docker.com/r/swsaturn/ramen_bot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hub.docker.com/r/swsaturn/ramen_bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;レストラン取得API: 
+&lt;a href=&#34;https://api.gnavi.co.jp/api/manual/restsearch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ぐるなび Web Service - レストラン検索API&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;デプロイ先: Azure App Service&lt;/li&gt;
 &lt;li&gt;CIサービス: Azure DevOps Pipelines&lt;/li&gt;
 &lt;/ul&gt;
@@ -113,11 +118,16 @@ iOS，Androidの両OSに対応．&lt;/p&gt;
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://sw-saturn.dev/img/ramen-bot.gif&#34; &gt;
-&lt;img data-src=&#34;https://sw-saturn.dev/img/ramen-bot.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;https://sw-saturn.dev/img/ramen-bot.gif&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;
+&lt;/a&gt;
 
 
 
@@ -186,11 +196,16 @@ iOS，Androidの両OSに対応．&lt;/p&gt;
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://sw-saturn.dev/img/tryus.png&#34; &gt;
-&lt;img data-src=&#34;https://sw-saturn.dev/img/tryus.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;https://sw-saturn.dev/img/tryus.png&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;
+&lt;/a&gt;
 
 
 
@@ -208,8 +223,10 @@ iOS，Androidの両OSに対応．&lt;/p&gt;
 美しい背景に現在時刻・天気・ニュースが表示されます。&lt;/p&gt;
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;JavaScriptフレームワーク: &lt;a href=&#34;https://vuejs.org&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CSSフレームワーク: &lt;a href=&#34;https://bulma.io&#34;&gt;Bulma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JavaScriptフレームワーク: 
+&lt;a href=&#34;https://vuejs.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CSSフレームワーク: 
+&lt;a href=&#34;https://bulma.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bulma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -287,9 +304,11 @@ iOS，Androidの両OSに対応．&lt;/p&gt;
 &lt;li&gt;サーバー:Golang(Gin)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;クライアントサイド&#34;&gt;クライアントサイド&lt;/h4&gt;
-&lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHubリポジトリ: 
+&lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;サーバーサイド&#34;&gt;サーバーサイド&lt;/h4&gt;
-&lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHubリポジトリ: 
+&lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

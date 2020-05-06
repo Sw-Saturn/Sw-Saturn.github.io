@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sw-saturn.dev/authors/admin/</loc>
-    <lastmod>2020-05-03T18:57:44+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sw-saturn.dev/tags/ajax/</loc>
     <lastmod>2020-01-02T13:28:40+09:00</lastmod>
   </url>
@@ -144,6 +139,11 @@
   <url>
     <loc>https://sw-saturn.dev/tags/json/</loc>
     <lastmod>2020-01-02T13:28:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.dev/authors/admin/</loc>
+    <lastmod>2020-05-03T18:57:44+09:00</lastmod>
   </url>
   
   <url>

@@ -7,7 +7,7 @@
     <description>Android</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
     <image>
-      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
       <title>Android</title>
       <link>https://sw-saturn.dev/tags/android/</link>
     </image>
@@ -59,11 +59,16 @@ iOS，Androidの両OSに対応．&lt;/p&gt;
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://sw-saturn.dev/img/tryus.png&#34; &gt;
-&lt;img data-src=&#34;https://sw-saturn.dev/img/tryus.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;https://sw-saturn.dev/img/tryus.png&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;
+&lt;/a&gt;
 
 
 

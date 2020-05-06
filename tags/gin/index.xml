@@ -7,7 +7,7 @@
     <description>Gin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
     <image>
-      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
       <title>Gin</title>
       <link>https://sw-saturn.dev/tags/gin/</link>
     </image>
@@ -35,9 +35,11 @@
 &lt;li&gt;サーバー:Golang(Gin)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;クライアントサイド&#34;&gt;クライアントサイド&lt;/h4&gt;
-&lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHubリポジトリ: 
+&lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;サーバーサイド&#34;&gt;サーバーサイド&lt;/h4&gt;
-&lt;p&gt;GitHubリポジトリ: &lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHubリポジトリ: 
+&lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -7,7 +7,7 @@
     <description>Go</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
     <image>
-      <url>https://sw-saturn.dev/img/icon-192.png</url>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
       <title>Go</title>
       <link>https://sw-saturn.dev/tags/go/</link>
     </image>
@@ -21,8 +21,10 @@
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;サーバー: Go&lt;/li&gt;
-&lt;li&gt;コンテナ: &lt;a href=&#34;https://hub.docker.com/r/swsaturn/ramen_bot&#34;&gt;https://hub.docker.com/r/swsaturn/ramen_bot&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;レストラン取得API: &lt;a href=&#34;https://api.gnavi.co.jp/api/manual/restsearch/&#34;&gt;ぐるなび Web Service - レストラン検索API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;コンテナ: 
+&lt;a href=&#34;https://hub.docker.com/r/swsaturn/ramen_bot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://hub.docker.com/r/swsaturn/ramen_bot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;レストラン取得API: 
+&lt;a href=&#34;https://api.gnavi.co.jp/api/manual/restsearch/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ぐるなび Web Service - レストラン検索API&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;デプロイ先: Azure App Service&lt;/li&gt;
 &lt;li&gt;CIサービス: Azure DevOps Pipelines&lt;/li&gt;
 &lt;/ul&gt;
@@ -39,11 +41,16 @@
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure &gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://sw-saturn.dev/img/ramen-bot.gif&#34; &gt;
-&lt;img data-src=&#34;https://sw-saturn.dev/img/ramen-bot.gif&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;https://sw-saturn.dev/img/ramen-bot.gif&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;
+&lt;/a&gt;
 
 
 
