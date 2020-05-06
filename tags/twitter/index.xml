@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Twitter | Kanta&#39;s Portfolio</title>
+    <link>https://sw-saturn.dev/tags/twitter/</link>
+      <atom:link href="https://sw-saturn.dev/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Twitter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
+    <image>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
+      <title>Twitter</title>
+      <link>https://sw-saturn.dev/tags/twitter/</link>
+    </image>
+    
+    <item>
+      <title>dmz_ai</title>
+      <link>https://sw-saturn.dev/project/dmz_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/dmz_ai/</guid>
+      <description>&lt;p&gt;自分のTwitterアカウントの発言をベースにして発言させるbot&lt;/p&gt;
+&lt;p&gt;Twitterの発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPIから投稿する．&lt;/p&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
+&lt;li&gt;サーバー: Golang&lt;/li&gt;
+&lt;li&gt;サーバー:さくらのVPSサーバー&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div&gt;
+    &lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/dmz_ai?ref_src=twsrc%5Etfw&#34; data-height=&#34;1000&#34;&gt;Tweets by dmz_ai&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

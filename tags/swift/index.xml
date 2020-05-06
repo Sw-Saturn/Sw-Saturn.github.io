@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swift | Kanta&#39;s Portfolio</title>
+    <link>https://sw-saturn.dev/tags/swift/</link>
+      <atom:link href="https://sw-saturn.dev/tags/swift/index.xml" rel="self" type="application/rss+xml" />
+    <description>Swift</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
+    <image>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
+      <title>Swift</title>
+      <link>https://sw-saturn.dev/tags/swift/</link>
+    </image>
+    
+    <item>
+      <title>Simple Calculator</title>
+      <link>https://sw-saturn.dev/project/calculator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/calculator/</guid>
+      <description>&lt;p&gt;Swift2の学習のため，少し複雑な計算も可能にした，入力経過を表示できる電卓．&lt;/p&gt;
+&lt;p&gt;ユニバーサルアプリケーションとして，iPhone，iPadなど様々な大きさのデバイスに対応したUIを作成した．&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

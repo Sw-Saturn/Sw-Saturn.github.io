@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rapido | Kanta&#39;s Portfolio</title>
+    <link>https://sw-saturn.dev/tags/rapido/</link>
+      <atom:link href="https://sw-saturn.dev/tags/rapido/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rapido</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2020 Kanta Demizu</copyright>
+    <image>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
+      <title>Rapido</title>
+      <link>https://sw-saturn.dev/tags/rapido/</link>
+    </image>
+    
+    <item>
+      <title>Birthday Countdown</title>
+      <link>https://sw-saturn.dev/project/birthday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/birthday/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ブログ記事&lt;/a&gt;のネタとして作った、誕生日カウントダウンアプリ。&lt;/p&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;アプリケーションフレームワーク: Flutter&lt;/li&gt;
+&lt;li&gt;RADライブラリ: 
+&lt;a href=&#34;https://pub.dev/packages/rapido&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rapido&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;参考&#34;&gt;参考&lt;/h5&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://blog.sw-saturn.dev/2019/12/07/334todo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.sw-saturn.dev/2019/12/07/334todo/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
