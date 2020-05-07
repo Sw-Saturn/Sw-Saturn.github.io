@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Matsuya-Web-API | Kanta&#39;s Portfolio</title>
+    <title>Matsuya-Web-API | My Portfolio</title>
     <link>https://sw-saturn.dev/tags/matsuya-web-api/</link>
       <atom:link href="https://sw-saturn.dev/tags/matsuya-web-api/index.xml" rel="self" type="application/rss+xml" />
     <description>Matsuya-Web-API</description>

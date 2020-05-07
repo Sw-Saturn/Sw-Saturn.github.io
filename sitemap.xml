@@ -142,16 +142,6 @@
   </url>
   
   <url>
-    <loc>https://sw-saturn.dev/authors/admin/</loc>
-    <lastmod>2020-05-06T15:49:54+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sw-saturn.dev/</loc>
-    <lastmod>2020-01-02T13:28:40+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sw-saturn.dev/tags/line/</loc>
     <lastmod>2020-01-02T13:28:40+09:00</lastmod>
   </url>
@@ -168,6 +158,11 @@
   
   <url>
     <loc>https://sw-saturn.dev/tags/mecab/</loc>
+    <lastmod>2020-01-02T13:28:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.dev/</loc>
     <lastmod>2020-01-02T13:28:40+09:00</lastmod>
   </url>
   
@@ -298,6 +293,11 @@
   <url>
     <loc>https://sw-saturn.dev/project/shirayukihime/</loc>
     <lastmod>2020-02-03T10:07:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sw-saturn.dev/authors/admin/</loc>
+    <lastmod>2020-05-06T15:49:54+09:00</lastmod>
   </url>
   
   <url>
