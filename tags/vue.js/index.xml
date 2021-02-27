@@ -21,9 +21,9 @@
 美しい背景に現在時刻・天気・ニュースが表示されます。&lt;/p&gt;
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;JavaScriptフレームワーク: 
+&lt;li&gt;JavaScript フレームワーク: 
 &lt;a href=&#34;https://vuejs.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;CSSフレームワーク: 
+&lt;li&gt;CSS フレームワーク: 
 &lt;a href=&#34;https://bulma.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bulma&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
