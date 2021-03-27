@@ -22,7 +22,11 @@
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;アプリケーションフレームワーク: Flutter&lt;/li&gt;
+<<<<<<< HEAD
 &lt;li&gt;RAD ライブラリ: 
+=======
+&lt;li&gt;RADライブラリ: 
+>>>>>>> origin/master
 &lt;a href=&#34;https://pub.dev/packages/rapido&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rapido&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5 id=&#34;参考&#34;&gt;参考&lt;/h5&gt;

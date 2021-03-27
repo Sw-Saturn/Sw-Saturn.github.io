@@ -17,13 +17,22 @@
       <link>https://sw-saturn.dev/project/dmz_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sw-saturn.dev/project/dmz_ai/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;自分の Twitter アカウントの発言を  ベースにして発言させる bot (現在停止中)&lt;/p&gt;
 &lt;p&gt;Twitter の発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPI から投稿する．&lt;/p&gt;
+=======
+      <description>&lt;p&gt;自分のTwitterアカウントの発言をベースにして発言させるbot&lt;/p&gt;
+&lt;p&gt;Twitterの発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPIから投稿する．&lt;/p&gt;
+>>>>>>> origin/master
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
 &lt;li&gt;サーバー: Golang&lt;/li&gt;
+<<<<<<< HEAD
 &lt;li&gt;サーバー:さくらの VPS サーバー&lt;/li&gt;
+=======
+&lt;li&gt;サーバー:さくらのVPSサーバー&lt;/li&gt;
+>>>>>>> origin/master
 &lt;/ul&gt;
 &lt;div&gt;
     &lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/dmz_ai?ref_src=twsrc%5Etfw&#34; data-height=&#34;1000&#34;&gt;Tweets by dmz_ai&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
