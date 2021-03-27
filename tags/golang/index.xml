@@ -17,22 +17,13 @@
       <link>https://sw-saturn.dev/project/dmz_ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://sw-saturn.dev/project/dmz_ai/</guid>
-<<<<<<< HEAD
       <description>&lt;p&gt;自分の Twitter アカウントの発言を  ベースにして発言させる bot (現在停止中)&lt;/p&gt;
 &lt;p&gt;Twitter の発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPI から投稿する．&lt;/p&gt;
-=======
-      <description>&lt;p&gt;自分のTwitterアカウントの発言をベースにして発言させるbot&lt;/p&gt;
-&lt;p&gt;Twitterの発言を形態素解析し，マルコフ連鎖によって言語化し，TwitterAPIから投稿する．&lt;/p&gt;
->>>>>>> origin/master
 &lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
 &lt;li&gt;サーバー: Golang&lt;/li&gt;
-<<<<<<< HEAD
 &lt;li&gt;サーバー:さくらの VPS サーバー&lt;/li&gt;
-=======
-&lt;li&gt;サーバー:さくらのVPSサーバー&lt;/li&gt;
->>>>>>> origin/master
 &lt;/ul&gt;
 &lt;div&gt;
     &lt;a class=&#34;twitter-timeline&#34; href=&#34;https://twitter.com/dmz_ai?ref_src=twsrc%5Etfw&#34; data-height=&#34;1000&#34;&gt;Tweets by dmz_ai&lt;/a&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
@@ -68,7 +59,6 @@
 &lt;div style=&#34;width: 80%&#34;&gt;
 &lt;script async class=&#34;speakerdeck-embed&#34; data-id=1d807680b7bf42bbab3d909f79a7b377 data-ratio=1.77777777777778 src=&#34;//speakerdeck.com/assets/embed.js&#34;&gt;&lt;/script&gt;
 &lt;/div&gt;
-<<<<<<< HEAD
 &lt;p&gt;jig.jp 学生インターンプログラム 2019 にて，4 人 1 チームで制作したプロダクト。&lt;/p&gt;
 &lt;p&gt;・外食に行ってみたいが不安な人&lt;/p&gt;
 &lt;p&gt;・新しい料理を安心して食べに行きたい人&lt;/p&gt;
@@ -77,31 +67,14 @@
 &lt;ul&gt;
 &lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
 &lt;li&gt;データベース:MySQL(サーバーからは GORM でアクセス)&lt;/li&gt;
-=======
-&lt;p&gt;jig.jp学生インターンプログラム2019にて，4人1チームで制作したプロダクト。&lt;/p&gt;
-&lt;p&gt;・外食に行ってみたいが不安な人&lt;/p&gt;
-&lt;p&gt;・新しい料理を安心して食べに行きたい人&lt;/p&gt;
-&lt;p&gt;これらの人をターゲットとし、SNSのような形で料理の名前、写真を投稿できるサービス。&lt;/p&gt;
-&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
-&lt;ul&gt;
-&lt;li&gt;プロセス管理:Systemd&lt;/li&gt;
-&lt;li&gt;データベース:MySQL(サーバーからはGORMでアクセス)&lt;/li&gt;
->>>>>>> origin/master
 &lt;li&gt;デプロイ先:AWS(EC2)&lt;/li&gt;
 &lt;li&gt;サーバー:Golang(Gin)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;クライアントサイド&#34;&gt;クライアントサイド&lt;/h4&gt;
-<<<<<<< HEAD
 &lt;p&gt;GitHub リポジトリ: 
 &lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;サーバーサイド&#34;&gt;サーバーサイド&lt;/h4&gt;
 &lt;p&gt;GitHub リポジトリ: 
-=======
-&lt;p&gt;GitHubリポジトリ: 
-&lt;a href=&#34;https://github.com/jigintern/Foodmates-client&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-client&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;サーバーサイド&#34;&gt;サーバーサイド&lt;/h4&gt;
-&lt;p&gt;GitHubリポジトリ: 
->>>>>>> origin/master
 &lt;a href=&#34;https://github.com/jigintern/Foodmates-server&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jigintern/Foodmates-server&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
