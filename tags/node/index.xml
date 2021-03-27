@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>node | My Portfolio</title>
+    <link>https://sw-saturn.dev/tags/node/</link>
+      <atom:link href="https://sw-saturn.dev/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    <description>node</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja-jp</language><copyright>© 2021 Kanta Demizu</copyright>
+    <image>
+      <url>https://sw-saturn.dev/images/icon_hu4846c8e9ed3c1a4eae186d95fe2ab44c_9681_512x512_fill_lanczos_center_2.png</url>
+      <title>node</title>
+      <link>https://sw-saturn.dev/tags/node/</link>
+    </image>
+    
+    <item>
+      <title>Translator-bot</title>
+      <link>https://sw-saturn.dev/project/translator-bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sw-saturn.dev/project/translator-bot/</guid>
+      <description>&lt;p&gt;外国語のテキストを送信すると，日本語に翻訳して返信してくれる LINE Bot&lt;/p&gt;
+&lt;h5 id=&#34;構成&#34;&gt;構成&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;サーバー: Azure Bot Service(node.js)&lt;/li&gt;
+&lt;li&gt;翻訳 API: Azure Translator Text API&lt;/li&gt;
+&lt;li&gt;デプロイ先: Azure App Service&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
