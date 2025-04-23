@@ -14,7 +14,7 @@ header:
     enable: true
     logo:
       # Logo text
-      text: "My Portfolio"
+      text: "Sw-Saturn"
     blox: custom-navbar
     fixed_to_top: true
     show_theme_chooser: true
