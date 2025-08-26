@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: SRE / Cloud Infrastructure / Web Backend
+role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -95,7 +95,7 @@ work:
       何をしたのか:
         - 定常作業の自動化推進（Bitbucket Pipelines / AWS CodePipeline）
         - インフラ環境複製の自動化推進（Terraform）
-        - 検索機能・SQL Query のパフォーマンスチューニング（Go / OpenSearch / MySQL 8.0）
+        - 検索エンジンのパフォーマンスチューニング（Go / OpenSearch / MySQL 8.0）
         - DMARC report の監視基盤構築（OpenSearch）
         
   - position: Software Engineer
@@ -105,7 +105,13 @@ work:
     date_start: 2024-09-01
     date_end: ''
     summary: |
-      FinTech solution の開発を行っています。
+      Infrastructure:
+        # {{< icon name="custom/azure" >}}{{< icon name="custom/googlecloud" >}}{{< icon name="custom/kubernetes" >}}{{< icon name="custom/docker" >}}{{< icon name="custom/terraform" >}}{{< icon name="custom/otel" >}}
+      Language / Framework:
+        # {{< icon name="custom/go" >}}{{< icon name="custom/java" >}}{{< icon name="custom/csharp" >}}
+      何をしたのか:
+        - Backend development
+        - Observability
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
