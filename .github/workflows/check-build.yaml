@@ -17,19 +17,49 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup pnpm
+        if: hashFiles('package.json') != ''
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: |
+          # Install Tailwind CLI if package.json exists
+          if [ -f "package.json" ]; then
+            echo "Installing Tailwind dependencies..."
+            pnpm install || npm install
+          fi
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 0.148.2
           extended: true    # Use extended version for SCSS/SASS support
 
+      # Cache dependencies (Go modules, node_modules) - stable, rarely changes
       - name: Cache Hugo modules
         uses: actions/cache@v4
         with:
-          path: ${{ env.HUGO_CACHEDIR }}
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          path: |
+            /tmp/hugo_cache_runner/
+            node_modules/
+            modules/*/node_modules/
+          key: ${{ runner.os }}-hugo-deps-${{ hashFiles('**/go.mod', '**/package-lock.json', '**/pnpm-lock.yaml') }}
           restore-keys: |
-            ${{ runner.os }}-hugomod-
+            ${{ runner.os }}-hugo-deps-
+
+      # Cache Hugo resources (processed images, CSS) - invalidates only when assets/config change
+      - name: Cache Hugo resources
+        uses: actions/cache@v4
+        with:
+          path: resources/
+          key: ${{ runner.os }}-hugo-resources-${{ hashFiles('assets/**/*', 'config/**/*', 'hugo.yaml', 'package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-hugo-resources-
 
       - name: Build
         run: hugo --minify

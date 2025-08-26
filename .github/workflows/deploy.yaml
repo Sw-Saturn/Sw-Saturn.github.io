@@ -24,6 +24,23 @@ jobs:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Setup pnpm
+        if: hashFiles('package.json') != ''
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: |
+          # Install Tailwind CLI if package.json exists
+          if [ -f "package.json" ]; then
+            echo "Installing Tailwind dependencies..."
+            pnpm install || npm install
+          fi
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
