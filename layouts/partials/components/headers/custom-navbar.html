@@ -1,6 +1,6 @@
-<header id="site-header" class="header text-white" style="background-color: #2d5a48;">
-    <nav class="navbar px-3 flex justify-left">
-        <div class="order-0 h-100">
+<header id="site-header" class="header text-white dark:text-white" style="background-color: #2d5a48;">
+    <nav class="navbar px-3 flex justify-start">
+        <div class="order-0 h-full">
             <!-- Brand -->
             <a class="navbar-brand" href="{{ site.Home.RelPermalink }}" title="{{ site.Title }}" style="color: white;">
                 {{- $logo_filename := site.Params.header.navbar.logo.filename -}}
@@ -40,8 +40,8 @@
 
         <!-- Main menu -->
         {{ $align_menu := site.Params.header.navbar.align | default "center" }}
-        <ul id="nav-menu" class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-left
-        {{ if in (slice " l" "left" ) $align_menu }}mr-auto ml-6{{ else if (in (slice "r" "right" ) $align_menu)
+        <ul id="nav-menu" class="navbar-nav order-3 hidden lg:flex w-full pb-6 lg:order-1 lg:w-auto lg:space-x-2 lg:pb-0 xl:space-x-8 justify-start
+      {{ if in (slice " l" "left" ) $align_menu }}mr-auto ml-6{{ else if (in (slice "r" "right" ) $align_menu)
             }}ml-auto mr-6{{end}}">
             {{ $currentPage := . }}
             {{ range site.Menus.main }}
@@ -50,11 +50,11 @@
             {{ $active := eq $menuURL $pageURL }}
             {{ if .HasChildren }}
             <li class="nav-item nav-dropdown group relative">
-                <span class="nav-link {{ range .Children }}
-                  {{ $childURL := .URL | absLangURL }}
-                  {{ $active := eq $childURL $pageURL }}
-                  {{ if $active }}active{{ end }}
-                {{ end }} inline-flex items-center">
+                <span role="button" tabindex="0" aria-haspopup="true" aria-expanded="false" class="nav-link cursor-pointer select-none {{ range .Children }}
+                {{ $childURL := .URL | absLangURL }}
+                {{ $active := eq $childURL $pageURL }}
+                {{ if $active }}active{{ end }}
+              {{ end }} inline-flex items-center">
                     {{ .Name }}
                     <svg class="h-4 w-4 fill-current inline-block" viewBox="0 0 20 20">
                         <path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z" />
@@ -112,8 +112,8 @@
             {{/* Show site search? */}}
             {{ $show_search := site.Params.header.navbar.show_search | default false }}
             {{ with $show_search }}
-            <button aria-label="search" class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
-                id="search_toggle">
+            <button aria-label="toggle search"
+                class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white" data-search-toggle>
                 <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"
                     fill="currentColor">
                     <path
@@ -124,16 +124,17 @@
 
             {{ $show_theme_chooser := site.Params.header.navbar.show_theme_chooser | default true }}
             {{ if $show_theme_chooser }}
-            <div class="px-3 text-white hover:text-primary-700 [&.active]:font-bold">
+            <div class="px-3 text-black hover:text-primary-700 dark:text-white dark:hover:text-primary-300
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
                 <button class="theme-toggle mt-1" accesskey="t" title="appearance">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round" class="dark:hidden">
+                        stroke-linejoin="round" class="block dark:hidden">
                         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                     </svg>
                     <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round" class=" dark:block [&:not(dark)]:hidden">
+                        stroke-linejoin="round" class="hidden dark:block">
                         <circle cx="12" cy="12" r="5"></circle>
                         <line x1="12" y1="1" x2="12" y2="3"></line>
                         <line x1="12" y1="21" x2="12" y2="23"></line>
@@ -151,7 +152,7 @@
             {{ $show_translations := site.Params.header.navbar.show_translations | default true }}
             {{ if .IsTranslated | and $show_translations }}
             <div class="pl-1 mr-5 text-gray-600 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-200
-              [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
+            [&.active]:font-bold [&.active]:text-black/90 dark:[&.active]:text-white">
                 {{- partial "components/language-chooser.html" (dict "page" .) -}}
             </div>
             {{ end }}
@@ -159,9 +160,9 @@
             <!-- CTA button -->
             {{ if site.Params.header.navbar.button.enable }}
             <a href="{{ site.Params.header.navbar.button.url | relLangURL }}" class="inline-block rounded border px-5 py-2 font-semibold transition
-          md:ml-4 px-4 py-1.5 text-sm
-          border-black  hover:bg-black dark:hover:bg-white dark:hover:text-black hover:text-white dark:border-white dark:text-white dark:hover:bg-white
-          hidden lg:inline-block">
+        md:ml-4 px-4 py-1.5 text-sm
+        border-black  hover:bg-black dark:hover:bg-white dark:hover:text-black hover:text-white dark:border-white dark:text-white dark:hover:bg-white
+        hidden lg:inline-block">
                 {{ site.Params.header.navbar.button.text }}
             </a>
             {{ end }}
@@ -170,5 +171,5 @@
 </header>
 
 {{ if $show_search }}
-<div id="search" class="hidden p-3"></div>
+{{- partial "components/search-modal.html" . -}}
 {{ end }}

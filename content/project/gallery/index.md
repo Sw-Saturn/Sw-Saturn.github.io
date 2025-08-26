@@ -1,7 +1,9 @@
 ---
 title: Gallery
 date: 2024-06-16
-external_link: https://gallery.sw-saturn.dev
+links: 
+  - type: site
+    url: https://gallery.sw-saturn.dev
 tags:
   - Hugo
   - Photography
