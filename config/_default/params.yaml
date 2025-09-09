@@ -15,7 +15,7 @@ header:
     logo:
       # Logo text
       text: "Sw-Saturn"
-    blox: custom-navbar
+    block: custom-navbar
     fixed_to_top: true
     show_theme_chooser: true
 
