@@ -24,6 +24,9 @@ jobs:
 
       - name: Setup Node.js
         uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+          cache: 'pnpm'
 
       - name: Install Renovate CLI
         run: npm install renovate
