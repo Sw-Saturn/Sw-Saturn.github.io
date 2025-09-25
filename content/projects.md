@@ -15,10 +15,13 @@ sections:
       text: ''
       filters:
         folders:
-          - project
+          - projects
     design:
-      view: community/card
+      view: card
       fill_image: false
+      show_read_time: false
+      show_date: false
+      showReadMore: false
       columns: 1
       spacing:
         padding: ['4rem', '1.5rem', '4rem', '1.5rem']
