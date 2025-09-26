@@ -34,8 +34,6 @@ profiles:
     url: https://www.linkedin.com/in/kanta-d/
   - icon: brands/instagram
     url: https://www.instagram.com/sw_saturn/
-  - icon: custom/keybase
-    url: https://keybase.io/swsaturn
 
 education:
   - area: 電気情報工学科

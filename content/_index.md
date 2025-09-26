@@ -11,14 +11,11 @@ design:
 
 # Page sections
 sections:
-  - block: biography
-    id: biography
+  - block: resume-biography-3
+    id: resume-biography-3
     content:
       username: admin
     design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: back.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em; padding: 0 1.5rem;'
