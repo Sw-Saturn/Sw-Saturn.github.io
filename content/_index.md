@@ -16,9 +16,6 @@ sections:
     content:
       username: admin
     design:
-      biography:
-        # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em; padding: 0 1.5rem;'
       # Avatar customization 
       avatar:
         size: medium     # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
