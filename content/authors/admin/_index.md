@@ -34,7 +34,6 @@ profiles:
     url: https://www.linkedin.com/in/kanta-d/
   - icon: brands/instagram
     url: https://www.instagram.com/sw_saturn/
-
 education:
   - area: 電気情報工学科
     institution: 舞鶴工業高等専門学校

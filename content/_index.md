@@ -11,8 +11,8 @@ design:
 
 # Page sections
 sections:
-  - block: resume-biography-3
-    id: resume-biography-3
+  - block: resume-biography
+    id: biography
     content:
       username: admin
     design:
