@@ -34,9 +34,6 @@ profiles:
     url: https://www.linkedin.com/in/kanta-d/
   - icon: brands/instagram
     url: https://www.instagram.com/sw_saturn/
-  - icon: custom/keybase
-    url: https://keybase.io/swsaturn
-
 education:
   - area: 電気情報工学科
     institution: 舞鶴工業高等専門学校
@@ -44,18 +41,6 @@ education:
     date_end: 2021-03-31
     summary: 
 work:
-  - position: Teaching Assistant (Part-time)
-    company_name: Dot Seminar.
-    company_url: 'https://kids-programming.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2021-03-31
-    summary: |2-
-      Language / Framework:
-        # {{< icon name="custom/javascript" >}}{{< icon name="custom/python" >}}{{< icon name="custom/c" >}}{{< icon name="custom/csharp" >}}{{< icon name="custom/wordpress" >}}
-
-      何をしたのか:
-      - 子供向けプログラミング教室でのレクチャー・カリキュラム作成
   - position: Cloud Infrastructure / Web Backend
     company_name: FIXER Inc.
     company_url: 'https://www.fixer.co.jp/'

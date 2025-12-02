@@ -16,24 +16,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
 
       - name: Setup pnpm
         if: hashFiles('package.json') != ''
         uses: pnpm/action-setup@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v5
+        uses: actions/setup-node@v6
         with:
-          node-version: "22"
+          node-version: "24"
           cache: 'pnpm'
+          cache-dependency-path: 'pnpm-lock.yaml'
 
       - name: Install Renovate CLI
-        run: npm install renovate
+        run: pnpm install renovate
 
       - name: Dry-run Renovate
         run: |
-          npx renovate '${{ github.repository }}' \
+          pnpm dlx renovate '${{ github.repository }}' \
             --dry-run=full \
             --use-base-branch-config=merge
         env:

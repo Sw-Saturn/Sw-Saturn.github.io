@@ -11,17 +11,16 @@ design:
 
 # Page sections
 sections:
-  - block: biography
+  - block: resume-biography
     id: biography
     content:
       username: admin
     design:
-      banner:
-        # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: back.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em; padding: 0 1.5rem;'
+        style: 'font-size: 0.8em'
+      spacing:
+        padding: ['2rem', '1.5rem', '2rem', '1.5rem']
       # Avatar customization 
       avatar:
         size: medium     # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
@@ -36,7 +35,7 @@ sections:
       # Education or Experience section first?
       is_education_first: false
       spacing: 
-        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
+        padding: ['2rem', '1.5rem', '2rem', '1.5rem']
   - block: skills
     id: skills
     content:
@@ -44,7 +43,7 @@ sections:
       username: admin
     design:
       spacing: 
-        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
+        padding: ['2rem', '1.5rem', '2rem', '1.5rem']
   - block: languages
     id: languages
     content:
@@ -52,5 +51,5 @@ sections:
       username: admin
     design:
       spacing: 
-        padding: ['4rem', '1.5rem', '4rem', '1.5rem']
+        padding: ['2rem', '1.5rem', '2rem', '1.5rem']
 ---
