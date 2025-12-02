@@ -25,15 +25,16 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
-          node-version: "22"
+          node-version-file: 'package.json'
           cache: 'pnpm'
+          cache-dependency-path: 'pnpm-lock.yaml'
 
       - name: Install Renovate CLI
-        run: npm install renovate
+        run: pnpm install renovate
 
       - name: Dry-run Renovate
         run: |
-          npx renovate '${{ github.repository }}' \
+          pnpm dlx renovate '${{ github.repository }}' \
             --dry-run=full \
             --use-base-branch-config=merge
         env:
