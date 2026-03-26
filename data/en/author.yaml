@@ -1,0 +1,12 @@
+name: "Sw-Saturn"
+nickname: "Sw-Saturn"
+greeting: "Hi, I am"
+image: "images/author/avatar.png"
+
+contactInfo:
+  github: sw-saturn
+  linkedin: kanta-d
+
+summary:
+  - Software Engineer
+  - Love automating routine tasks

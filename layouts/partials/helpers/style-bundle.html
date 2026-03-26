@@ -1,0 +1,36 @@
+{{/*  setup Sass options  */}}
+{{- $options := partial "helpers/get-sass-options.html" -}}
+{{- $options = $options | merge (dict "targetPath" "application.css") -}}
+
+{{/*  Compile hugo template `application.template.scss` into `application.scss`.  */}}
+{{- $template := resources.Get "styles/application.template.scss" -}}
+{{- $scss := $template | resources.ExecuteAsTemplate "styles/application.scss" . -}}
+
+{{/*  Bundle application.scss  */}}
+{{- $bundle := $scss | css.Sass $options | fingerprint -}}
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" />
+
+{{/*  Custom overrides  */}}
+<style>
+  /* Inline SVG skill icons: fixed 24x24 display */
+  .skill-svg-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
+  }
+  .skill-svg-icon svg {
+    width: 24px;
+    height: 24px;
+  }
+  /* Hobby icons: apply accent colors via currentColor */
+  .skill-svg-icon.hobby-photo      { color: #e8a838; }
+  .skill-svg-icon.hobby-motorcycle { color: #1e88e5; }
+  .skill-svg-icon.hobby-dj         { color: #e53935; }
+  .skill-svg-icon.hobby-travel     { color: #43a047; }
+  /* Dark mode only: fix fills that blend into dark card backgrounds */
+  html[data-theme='dark'] .skill-svg-icon.icon-aws  [fill="#252f3e"] { fill: #c8cdd6; }
+  html[data-theme='dark'] .skill-svg-icon.icon-bash [fill="#293138"] { fill: #4fa847; }
+</style>

@@ -1,0 +1,14 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+projects:
+  - name: Gallery
+    image: media/gallery.jpg
+    summary: "自分が撮影した写真を紹介しています。"
+    url: "https://gallery.sw-saturn.dev"
+    tags:
+      - Photography

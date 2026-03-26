@@ -1,0 +1,101 @@
+section:
+  name: Skills & Hobbies
+  id: skills
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  filter: true
+
+buttons:
+  - name: All
+    filter: "all"
+  - name: Infrastructure
+    filter: "infra"
+  - name: Coding
+    filter: "coding"
+  - name: Hobbies
+    filter: "hobbies"
+
+skills:
+  # Infrastructure
+  - name: Azure
+    logo: images/sections/skills/azure.svg
+    summary: "クラウドインフラ設計・構築（Azure）"
+    categories: ["infra"]
+
+  - name: AWS
+    logo: images/sections/skills/aws.svg
+    summary: "クラウドインフラ設計・構築（AWS）"
+    categories: ["infra"]
+
+  - name: Docker
+    logo: images/sections/skills/docker.svg
+    summary: "コンテナ化・デプロイ"
+    categories: ["infra"]
+
+  - name: Kubernetes
+    logo: images/sections/skills/kubernetes.svg
+    summary: "コンテナオーケストレーション"
+    categories: ["infra"]
+
+  - name: Terraform
+    logo: images/sections/skills/terraform.svg
+    summary: "IaC による環境自動化"
+    categories: ["infra", "coding"]
+
+  - name: OpenSearch
+    logo: images/sections/skills/opensearch.svg
+    summary: "検索エンジン・監視基盤"
+    categories: ["infra"]
+
+  # Coding
+  - name: C# / .NET
+    logo: images/sections/skills/csharp.svg
+    summary: "Web API 開発（ASP.NET Core / DDD）"
+    categories: ["coding"]
+
+  - name: Go
+    logo: images/sections/skills/go.svg
+    summary: "バックエンド開発・自動化ツール"
+    categories: ["coding"]
+
+  - name: Bash
+    logo: images/sections/skills/bash.svg
+    summary: "スクリプトによる自動化"
+    categories: ["coding"]
+
+  - name: Python
+    logo: images/sections/skills/python.svg
+    summary: "スクリプト・データ処理"
+    categories: ["coding"]
+
+  - name: TypeScript
+    logo: images/sections/skills/typescript.svg
+    summary: "フロントエンド開発"
+    categories: ["coding"]
+
+  - name: Java
+    logo: images/sections/skills/java.svg
+    summary: "バックエンド開発（Spring）"
+    categories: ["coding"]
+
+  # Hobbies
+  - name: Photography
+    logo: images/sections/skills/photo.svg
+    summary: "Snapshot, Nature"
+    categories: ["hobbies"]
+
+  - name: Motorcycle
+    logo: images/sections/skills/motorcycle.svg
+    summary: "BMW G310GS"
+    categories: ["hobbies"]
+
+  - name: DJ
+    logo: images/sections/skills/dj.svg
+    summary: "Happy Hardcore, UK Hardcore, Makina"
+    categories: ["hobbies"]
+
+  - name: Travel
+    logo: images/sections/skills/trip.svg
+    summary: ""
+    categories: ["hobbies"]

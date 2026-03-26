@@ -1,0 +1,52 @@
+section:
+  name: Experience
+  id: experiences
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+experiences:
+  - company:
+      name: LiNKX, Inc.
+      url: "https://linkx.dev/"
+      location: Tokyo, Japan
+      overview: Software development and cloud infrastructure.
+    positions:
+      - designation: Software Engineer
+        start: Sep 2024
+        responsibilities:
+          - Backend development (Go, Java, C#)
+          - Observability (OpenTelemetry)
+          - Cloud infrastructure (Azure, GCP, Kubernetes, Terraform)
+
+  - company:
+      name: Loco Partners Inc.
+      url: "https://loco-partners.com/"
+      location: Tokyo, Japan
+      overview: SRE, cloud infrastructure, and web backend for travel booking service.
+    positions:
+      - designation: SRE / Cloud Infrastructure / Web Backend
+        start: Sep 2023
+        end: Aug 2024
+        responsibilities:
+          - 定常作業の自動化推進（Bitbucket Pipelines / AWS CodePipeline）
+          - インフラ環境複製の自動化推進（Terraform）
+          - 検索エンジンのパフォーマンスチューニング（Go / OpenSearch / MySQL 8.0）
+          - DMARC report の監視基盤構築（OpenSearch）
+
+  - company:
+      name: FIXER Inc.
+      url: "https://www.fixer.co.jp/"
+      location: Mie/Tokyo, Japan
+      overview: Cloud infrastructure design and web backend development.
+    positions:
+      - designation: Cloud Infrastructure / Web Backend
+        start: Apr 2021
+        end: Aug 2023
+        responsibilities:
+          - クラウドインフラ設計（Azure / AWS）
+          - オンプレミスシステムのクラウドマイグレーション
+          - RESTful な Web API 設計
+          - DDD での Web Backend 開発の推進（.NET 6 / ASP.NET Core）
+          - CI/CD Pipeline の構築（GitHub / Azure Pipelines）
+          - インフラ環境複製の自動化推進（Terraform）
