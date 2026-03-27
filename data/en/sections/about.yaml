@@ -1,0 +1,32 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+designation: Software Engineer
+company:
+  name: LiNKX, Inc.
+  url: "https://www.linkx.dev/"
+
+summary: "東京でSoftware Engineerをやっています。Webバックエンド開発やクラウドインフラの設計構築、ルーチンワークの自動化が好きです。"
+
+socialLinks:
+  - name: GitHub
+    icon: "fab fa-github"
+    url: "https://github.com/sw-saturn"
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/kanta-d/"
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/Sw_Saturn"
+  - name: Instagram
+    icon: "fab fa-instagram"
+    url: "https://www.instagram.com/sw_saturn/"
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "https://www.facebook.com/SwSaturn"
+

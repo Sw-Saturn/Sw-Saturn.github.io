@@ -1,53 +1,56 @@
-# Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
-title: Sw-Saturn # Website name
-baseURL: "https://sw-saturn.dev/" # Website URL
-
-############################
-## LANGUAGE
-############################
+baseURL: "https://sw-saturn.dev/"
+title: Sw-Saturn
 
 defaultContentLanguage: en
 hasCJKLanguage: true
-defaultContentLanguageInSubdir: false
-removePathAccents: true
 
-############################
-## ADVANCED
-############################
+# Hugo module: Toha theme + npm asset mounts
+module:
+  imports:
+    - path: github.com/hugo-toha/toha/v4
+  mounts:
+    - source: static/files
+      target: static/files
+    - source: ./node_modules/flag-icons/flags
+      target: static/flags
+    - source: ./node_modules/@fontsource/mulish/files
+      target: static/files
+    - source: ./node_modules/katex/dist/fonts
+      target: static/fonts
 
-build:
-  writeStats: true
-enableGitInfo: false
+languages:
+  en:
+    languageCode: en
+    languageName: English
+    title: Sw-Saturn
+    weight: 1
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+outputFormats:
+  rss:
+    baseName: rss
+
+enableEmoji: true
+enableRobotsTXT: true
 summaryLength: 30
 pagination:
   pagerSize: 10
-enableEmoji: true
-enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
-ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-permalinks:
-  authors: "/author/:slug/"
-disableAliases: true
-outputs:
-  home: [HTML, RSS, headers, redirects]
-  section: [HTML, RSS]
-imaging:
-  resampleFilter: lanczos
-  quality: 90
-  anchor: smart
-  hint: picture
-timeout: 600000
-taxonomies:
-  author: authors
-markup:
-  _merge: deep
-  highlight:
-    lineNos: false
-security:
-  _merge: deep
+
 sitemap:
-  _merge: deep
+  changefreq: monthly
+  priority: 0.5
+  filename: sitemap.xml

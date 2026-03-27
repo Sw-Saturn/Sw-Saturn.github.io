@@ -1,42 +1,74 @@
-# SITE SETUP
-# Guide: https://docs.hugoblox.com/tutorial/
-# Documentation: https://docs.hugoblox.com/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+logo:
+  favicon: /images/site/favicon.png
 
-# Appearance
-appearance:
-  mode: system
-  color: emerald
+background: images/background.jpg
 
-# Site header
-header:
-  navbar:
-    enable: true
-    logo:
-      # Logo text
-      text: "Sw-Saturn"
-    block: custom-navbar
-    fixed_to_top: true
-    show_theme_chooser: true
+topNavbar:
+  maxVisibleSections: 5
 
-# Site footer
-footer:
-  copyright:
-    notice: "© {year} Sw-Saturn. This work is licensed under {license}"
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-
-# Localization
-locale:
-  date_format: "Jan 2, 2006"
-  time_format: "3:04 PM"
-
-# Site features
 features:
+  theme:
+    enable: true
+    services:
+      light: true
+      dark: true
+      default: system
+
+  portfolio:
+    enable: true
+
+  blog:
+    enable: false
+
+  notes:
+    enable: false
+
+  comment:
+    enable: false
+
+  analytics:
+    enable: false
+
+  toc:
+    enable: false
+
+  tags:
+    enable: false
+
+  flags:
+    enable: false
+
+  embedpdf:
+    enable: false
+
+  flowchart:
+    enable: false
+
   math:
     enable: false
-  privacy_pack:
+
+  syntaxHighlight:
     enable: true
+    services:
+      hljs:
+        noHighlightRe: /^no-highlight$/i
+
+  copyCodeButton:
+    enable: true
+
+  readingTime:
+    enable: false
+
+footer:
+  enable: true
+  template: footer.html
+  navigation:
+    enable: true
+  contactMe:
+    enable: true
+  credentials:
+    enable: true
+  newsletter:
+    enable: false
+  disclaimer:
+    enable: false

@@ -17,24 +17,14 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-      - name: Setup pnpm
-        if: hashFiles('package.json') != ''
-        uses: pnpm/action-setup@v4
-
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: "24"
-          cache: 'pnpm'
-          cache-dependency-path: 'pnpm-lock.yaml'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: |
-          # Install Tailwind CLI if package.json exists
-          if [ -f "package.json" ]; then
-            echo "Installing Tailwind dependencies..."
-            pnpm install
-          fi
+        run: npm install
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -50,7 +40,7 @@ jobs:
             /tmp/hugo_cache_runner/
             node_modules/
             modules/*/node_modules/
-          key: ${{ runner.os }}-hugo-deps-${{ hashFiles('**/go.mod', '**/package-lock.json', '**/pnpm-lock.yaml') }}
+          key: ${{ runner.os }}-hugo-deps-${{ hashFiles('**/go.mod', '**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-hugo-deps-
 
