@@ -28,6 +28,11 @@ skills:
     summary: "クラウドインフラ設計・構築（AWS）"
     categories: ["infra"]
 
+  - name: Google Cloud
+    logo: images/sections/skills/gcp.svg
+    summary: "クラウドインフラ設計・構築（Google Cloud）"
+    categories: ["infra"]
+
   - name: Docker
     logo: images/sections/skills/docker.svg
     summary: "コンテナ化・デプロイ"
