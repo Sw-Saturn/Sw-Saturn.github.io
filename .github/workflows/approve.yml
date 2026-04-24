@@ -20,6 +20,6 @@ jobs:
         with:
           app-id: ${{ secrets.MARX_APP_ID }}
           private-key: ${{ secrets.MARX_APP_PRIVATE_KEY }}
-      - uses: Sw-Saturn/Marx@v1
+      - uses: Sw-Saturn/Marx@v2
         with:
           github-token: ${{ steps.app-token.outputs.token }}
