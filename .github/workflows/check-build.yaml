@@ -17,6 +17,13 @@ jobs:
           submodules: true  # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
+      - name: Set version
+        id: set_version
+        run: |
+          HUGO_VERSION=$(cat hugo-version.txt | tr -d '[:space:]')
+          echo "HUGO_VERSION=$HUGO_VERSION" >> $GITHUB_ENV
+          echo "Set version: $HUGO_VERSION"
+      
       - name: Setup Node.js
         uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
         with:
@@ -29,7 +36,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@75d2e84710de30f6ff7268e08f310b60ef14033f # v3.0.0
         with:
-          hugo-version: 0.160.1
+          hugo-version: ${{ env.HUGO_VERSION }}
           extended: true    # Use extended version for SCSS/SASS support
 
       # Cache dependencies (Go modules, node_modules) - stable, rarely changes

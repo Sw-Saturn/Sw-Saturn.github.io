@@ -20,8 +20,8 @@ module:
 
 languages:
   en:
-    languageCode: en
-    languageName: English
+    locale: en
+    label: English
     title: Sw-Saturn
     weight: 1
 
