@@ -1,31 +1,20 @@
 {
-  $schema: 'https://docs.renovatebot.com/renovate-schema.json',
-  extends: [
-    'config:recommended',
-  ],
+  $schema: "https://docs.renovatebot.com/renovate-schema.json",
+  extends: ["config:recommended"],
   packageRules: [
     {
-      matchManagers: [
-        'gomod',
-      ],
-      matchDepTypes: [
-        'indirect',
-      ],
+      matchManagers: ["gomod"],
+      matchDepTypes: ["indirect"],
       enabled: true,
     },
   ],
   customManagers: [
     {
-      customType: 'regex',
-      managerFilePatterns: [
-        '/^\\.github/workflows/.*\\.yaml$/',
-      ],
-      matchStrings: [
-        'hugo-version: (?<currentValue>.*)',
-      ],
-      datasourceTemplate: 'github-releases',
-      depNameTemplate: 'gohugoio/hugo',
-      extractVersionTemplate: '{{#if extractVersion}}{{extractVersion}}{{else}}^v?(?<version>.+)${{/if}}',
+      customType: "regex",
+      fileMatch: ["^hugo-version\\.txt$"],
+      matchStrings: ["^(?<currentValue>.*)\\s*$"],
+      depNameTemplate: "gohugoio/hugo",
+      datasourceTemplate: "github-releases",
     },
   ],
 }
